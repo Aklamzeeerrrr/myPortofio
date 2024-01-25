@@ -567,6 +567,10 @@ img {
     width: 75%
 }
 
+.skills_azure{
+    width: 65%
+}
+
 .skills_maven{
     width: 85%
 }
@@ -575,12 +579,28 @@ img {
     width: 80%
 }
 
+.skills_jasmine{
+    width: 75%
+}
+
 .skills_gradle{
     width: 75%
 }
 
 .skills_postman{
     width: 85%
+}
+
+.skills_windows{
+    width: 85%
+}
+
+.skills_linux{
+    width: 75%
+}
+
+.skills_macos{
+    width: 65%
 }
 
 .skills_git{
@@ -593,6 +613,14 @@ img {
 
 .skills_postgre{
     width: 85%
+}
+
+.skills_firebase{
+    width: 70%
+}
+
+.skills_mongodb{
+    width: 65%
 }
 
 .skills_figma{
